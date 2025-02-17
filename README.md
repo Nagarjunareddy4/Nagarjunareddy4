@@ -1,15 +1,15 @@
-![logo](https://github.com/indrasenaReddy04/indrasenaReddy04/blob/main/banner.png)
+![logo](https://github.com/Nagarjunareddy4/Nagarjunareddy4/blob/main/Linkedin%20Banners.png)
 <h1 align="center">Hi 👋, I'm Nagarjunareddy Annapureddy</h1>
 <h3 align="center">A Software Engineer at HCLTech</h3>
 <img align="right"alt="coding"width="400"src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
 
 
-- 👨‍💻 All of my projects are available at [https://indrasenareddy04.github.io/Indra4/](https://indrasenareddy04.github.io/Indra4/)
+- 👨‍💻 All of my projects are available at [https://github.com/Nagarjunareddy4?tab=repositories](https://github.com/Nagarjunareddy4?tab=repositories)
 
 - 📫 Just email me **nagarjunareddy9995@gmail.com**
 
 - 📄 Some more about me
--  [https://indrasenareddy04.github.io/Resume/](https://indrasenareddy04.github.io/Resume/)
+-  [https://github.com/Nagarjunareddy4/Nagarjunareddy4/blob/main/Nagarjunareddy_09-08-2001.pdf](https://github.com/Nagarjunareddy4/Nagarjunareddy4/blob/main/Nagarjunareddy_09-08-2001.pdf)
 
 - ⚡ Fun fact "Did you know? The first commit ever made on GitHub was on October 19, 2007, by Chris Wanstrath, one of GitHub’s co-founders. The commit message was simply ‘first post’!"
 <h3 align="left">Connect with me:</h3>
