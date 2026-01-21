@@ -1,33 +1,111 @@
-![logo](https://github.com/Nagarjunareddy4/Nagarjunareddy4/blob/main/Linkedin%20Banners.png)
-<h1 align="center">Hi 👋, I'm Nagarjunareddy Annapureddy</h1>
-<h3 align="center">A Software Engineer at HCLTech</h3>
-<img align="right"alt="coding"width="400"src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
+![Banner](https://github.com/Nagarjunareddy4/Nagarjunareddy4/blob/main/Linkedin%20Banners.png)
 
+<h1 align="center">👋 Hi, I'm Nagarjunareddy Annapureddy</h1>
+<h3 align="center">💻 Software Engineer | ⚙️ DevOps & CI/CD Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nagarjunareddy4?tab=repositories](https://github.com/Nagarjunareddy4?tab=repositories)
-
-- 📫 Just email me **nagarjunareddy9995@gmail.com**
-
-- 📄 Some more about me
--  [https://github.com/Nagarjunareddy4/Nagarjunareddy4/blob/main/Nagarjunareddy_09-08-2001.pdf](https://github.com/Nagarjunareddy4/Nagarjunareddy4/blob/main/Nagarjunareddy_09-08-2001.pdf)
-
-- ⚡ Fun fact "Did you know? The first commit ever made on GitHub was on October 19, 2007, by Chris Wanstrath, one of GitHub’s co-founders. The commit message was simply ‘first post’!"
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nagarjunareddy-annapureddy-2b243a217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/indrasena-reddy-annapureddy" height="30" width="40" /></a>
-<a href="https://github.com/indrasenaReddy04" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="https://github.com/indrasenaReddy04" height="30" width="40" /></a>
+<p align="center">
+  <em>Software Engineer at HCLTech with a strong interest in automation, CI/CD, and cloud-native practices</em>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nagarjunareddy4&label=👀%20Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/git/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </p>
+<img align="right" alt="coding" width="360" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" />
 
-- 👋 Hi, I’m @Nagarjunareddy4
-- 👀 I’m 💻 Passionate about CI/CD, Cloud, and Automation
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  @Nagarjunareddy4 ...
-<!---
-Nagarjunareddy4/Nagarjunareddy4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 👨‍💻 About Me
+
+I am a **Software Engineer at HCLTech** who enjoys working on **DevOps practices, CI/CD pipelines, and automation workflows**.  
+I’m passionate about learning new technologies and applying them to solve real-world engineering problems.
+
+- 💼 **Current Role:** Software Engineer  
+- 🔍 **Core Interests:** CI/CD, Cloud, Automation  
+- 🌱 **Currently Learning:** Modern DevOps tools & practices  
+- 🤝 **Open to:** Collaboration on meaningful technical projects  
+
+---
+
+## 🧩 DevOps-Focused Tech Stack
+
+### 🔧 Version Control
+- Git
+
+### 🖥️ Operating Systems
+- Linux
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+</p>
+
+---
+
+## 📂 Projects & Work
+
+👨‍💻 Explore all my work and repositories here:  
+👉 **https://github.com/Nagarjunareddy4?tab=repositories**
+
+---
+
+## 📄 Profile / Resume
+
+📄 View my profile document:  
+👉 **Nagarjunareddy_09-08-2001.pdf**
+
+---
+
+## 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nagarjunareddy4&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nagarjunareddy4&theme=default&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagarjunareddy4&layout=compact&theme=default&hide_border=true" height="140" />
+</p>
+
+> 🌗 These stats automatically adapt to GitHub **light & dark themes**
+
+---
+
+## 📫 Connect With Me
+
+- 📧 **Email:** nagarjunareddy9995@gmail.com  
+- 💻 **GitHub:** https://github.com/Nagarjunareddy4  
+
+---
+
+## 🌐 Portfolio Preview
+
+<p align="center">
+  <a href="https://nagarjunareddy.in/" target="_blank">
+    <img 
+      src="https://image.thum.io/get/width/1200/https://nagarjunareddy.in/" 
+      alt="Portfolio Preview"
+      width="50%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  🔗 <strong><a href="https://nagarjunareddy.in/" target="_blank">Visit My Portfolio →</a></strong>
+</p>
+
+---
+
+
+---
+
+## ⚡ Fun Fact
+
+> 🚀 Git was created to support large-scale distributed development — making it the backbone of modern DevOps today.
+
+---
+
+<!--
+⭐ This is a special repository because its README.md
+appears on your GitHub profile.
+-->
