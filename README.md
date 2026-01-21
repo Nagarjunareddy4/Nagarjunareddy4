@@ -76,10 +76,26 @@ I’m passionate about learning new technologies and applying them to solve real
 - 📧 **Email:** nagarjunareddy9995@gmail.com  
 - 💻 **GitHub:** https://github.com/Nagarjunareddy4  
 
-<!--
-🔗 LinkedIn / Portfolio alignment ready
-(Add links here later without changing layout)
--->
+---
+
+## 🌐 Portfolio Preview
+
+<p align="center">
+  <a href="https://nagarjunareddy.in/" target="_blank">
+    <img 
+      src="https://image.thum.io/get/width/1200/https://nagarjunareddy.in/" 
+      alt="Portfolio Preview"
+      width="75%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  🔗 <strong><a href="https://nagarjunareddy.in/" target="_blank">Visit My Portfolio →</a></strong>
+</p>
+
+---
+
 
 ---
 
