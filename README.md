@@ -86,6 +86,7 @@ I’m passionate about learning new technologies and applying them to solve real
       src="https://image.thum.io/get/width/1200/https://nagarjunareddy.in/" 
       alt="Portfolio Preview"
       width="50%"
+      height="50%"
     />
   </a>
 </p>
