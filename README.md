@@ -1,112 +1,101 @@
-![Banner](https://github.com/Nagarjunareddy4/Nagarjunareddy4/blob/main/Linkedin%20Banners.png)
+<div align="center">
 
-<h1 align="center">👋 Hi, I'm Nagarjunareddy Annapureddy</h1>
-<h3 align="center">💻 Software Engineer | ⚙️ DevOps & CI/CD Enthusiast</h3>
+<img src="https://raw.githubusercontent.com/Nagarjunareddy4/Nagarjunareddy4/main/banner.png" alt="Nagarjunareddy Annapureddy - DevOps Engineer" width="100%"/>
 
-<p align="center">
-  <em>Software Engineer at HCLTech with a strong interest in automation, CI/CD, and cloud-native practices</em>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nagarjunareddy4&label=👀%20Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=Nagarjunareddy4&label=👀%20Profile%20Views&color=1e90ff&style=flat)](https://github.com/Nagarjunareddy4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagarjunareddy-annapureddy-2b243a217)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nagarjunareddy.in-1e90ff?style=flat&logo=google-chrome&logoColor=white)](https://nagarjunareddy.in/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nagarjunareddy9995@gmail.com)
 
-<img align="right" alt="coding" width="360" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif" />
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Software Engineer at HCLTech** who enjoys working on **DevOps practices, CI/CD pipelines, and automation workflows**.  
-I’m passionate about learning new technologies and applying them to solve real-world engineering problems.
+I'm a **Software Engineer at HCLTech, India** focused on **DevOps practices, CI/CD automation, and cloud-native workflows**. I enjoy building pipelines that just work — and automating the parts that shouldn't require manual effort.
 
-- 💼 **Current Role:** Software Engineer  
-- 🔍 **Core Interests:** CI/CD, Cloud, Automation  
-- 🌱 **Currently Learning:** Modern DevOps tools & practices  
-- 🤝 **Open to:** Collaboration on meaningful technical projects  
-
----
-
-## 🧩 DevOps-Focused Tech Stack
-
-### 🔧 Version Control
-- Git
-
-### 🖥️ Operating Systems
-- Linux
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-</p>
+- 💼 **Role:** Software Engineer @ HCLTech, India
+- 🔧 **Focus:** Azure Pipelines · CI/CD · Cloud Automation
+- 🌱 **Currently Learning:** Kubernetes, Terraform, advanced Azure DevOps patterns
+- 🤝 **Open to:** Collaborating on DevOps tooling, automation scripts, and infrastructure projects
+- ⚡ **Fun fact:** I once saved 3 hours of daily manual deployment work by writing a 40-line YAML pipeline
 
 ---
 
-## 📂 Projects & Work
+## 🧰 Tech Stack
 
-👨‍💻 Explore all my work and repositories here:  
-👉 **https://github.com/Nagarjunareddy4?tab=repositories**
+### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?style=for-the-badge&logo=azurepipelines&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
+### 🏗️ Infrastructure & Automation
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-## 📄 Profile / Resume
-
-📄 View my profile document:  
-👉 **Nagarjunareddy_09-08-2001.pdf**
-
----
-
-## 📊 GitHub Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nagarjunareddy4&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nagarjunareddy4&theme=default&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagarjunareddy4&layout=compact&theme=default&hide_border=true" height="140" />
-</p>
-
-> 🌗 These stats automatically adapt to GitHub **light & dark themes**
+### 💻 Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
+## 📂 Featured Projects
 
-- 📧 **Email:** nagarjunareddy9995@gmail.com  
-- 💻 **GitHub:** https://github.com/Nagarjunareddy4  
+> 💡 Browse all repositories → [github.com/Nagarjunareddy4?tab=repositories](https://github.com/Nagarjunareddy4?tab=repositories)
 
----
+| Project | Description | Stack |
+|---|---|---|
+| 🔧 [Linux_Commands](https://github.com/Nagarjunareddy4/Linux_Commands) | Comprehensive reference for Linux commands used in DevOps workflows | Shell |
+| 🗄️ [SQL_Documentation](https://github.com/Nagarjunareddy4/SQL_Documentation) | Structured SQL reference and query patterns | SQL |
 
-## 🌐 Portfolio Preview
-
-<p align="center">
-  <a href="https://nagarjunareddy.in/" target="_blank">
-    <img 
-      src="https://image.thum.io/get/width/1200/https://nagarjunareddy.in/" 
-      alt="Portfolio Preview"
-      width="50%"
-      height="50%"
-    />
-  </a>
-</p>
-
-<p align="center">
-  🔗 <strong><a href="https://nagarjunareddy.in/" target="_blank">Visit My Portfolio →</a></strong>
-</p>
+> *More DevOps & automation projects coming soon — watch this space!*
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Nagarjunareddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nagarjunareddy4&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nagarjunareddy4&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagarjunareddy4&layout=compact&theme=default&hide_border=true)
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
+## 🌐 Portfolio
 
-> 🚀 Git was created to support large-scale distributed development — making it the backbone of modern DevOps today.
+[![Portfolio Preview](https://image.thum.io/get/width/1200/https://nagarjunareddy.in/)](https://nagarjunareddy.in/)
+
+🔗 **[Visit nagarjunareddy.in →](https://nagarjunareddy.in/)**
 
 ---
 
-<!--
-⭐ This is a special repository because its README.md
-appears on your GitHub profile.
--->
+## 📫 Let's Connect
+
+| Platform | Link |
+|---|---|
+| 💼 LinkedIn | [nagarjunareddy-annapureddy-2b243a217](https://www.linkedin.com/in/nagarjunareddy-annapureddy-2b243a217) |
+| 🌐 Portfolio | [nagarjunareddy.in](https://nagarjunareddy.in/) |
+| 📧 Email | [nagarjunareddy9995@gmail.com](mailto:nagarjunareddy9995@gmail.com) |
+| 💻 GitHub | [@Nagarjunareddy4](https://github.com/Nagarjunareddy4) |
+
+---
+
+<div align="center">
+
+*"Automate what's repeatable. Document what matters. Ship what works."*
+
+</div>
